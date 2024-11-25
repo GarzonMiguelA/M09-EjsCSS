@@ -1,0 +1,26 @@
+
+button {
+    border: 10px dotted red;
+    margin: 50px;
+    padding: 60px 40px 20px 0px;
+}
+
+button.block {
+    display: block;
+}
+
+button.inline {
+    display: inline;
+}
+
+button.inline-table {
+    display: inline-table;
+}
+
+button.list-item {
+    display: list-item;
+}
+
+button.default {
+    display: block; 
+}

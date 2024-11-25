@@ -1,0 +1,21 @@
+.contenedor {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+}
+
+.contenedor {
+    overflow: visible; 
+}
+
+.contenedor.hidden {
+    overflow: hidden; 
+}
+
+.contenedor.scroll {
+    overflow: scroll; 
+}
+
+.contenedor.auto {
+    overflow: auto;
+}
